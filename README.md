@@ -1,3 +1,13 @@
+# [srmacam.github.io](https://srmacam.github.io) - Portfolio Website
+Simple portfolio website to host my CV and showcase personal projects.
+
+This site was built using [GitHub Pages](https://pages.github.com/) via [Jekyll](https://jekyllrb.com/), a Ruby-based static website generator.
+
+## Themes Utilized
+- [Minimal Mistakes](https://jekyllthemes.io/theme/minimal-mistakes)
+- [Online CV](https://jekyllthemes.io/theme/online-cv)
+
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
