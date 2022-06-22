@@ -61,11 +61,11 @@ plugins:
 author:
   name   : "Samnovem Macam"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Computer Science UCSD Graduate looking for job opportunities"
+  bio    : "Computer Science UCSD alumni seeking job opportunities"
   links:
     - label: "saremacam@gmail.com"
       icon: "far fa-fw fa-envelope"
-      url: "mailto:saremacam@gmail.com"
+      url: "mailto:sam.macam@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/samnovem-macam-931548195/"
@@ -77,7 +77,7 @@ footer:
   links:
     - label: "Email"
       icon: "far fa-fw fa-envelope"
-      url: "mailto:saremacam@gmail.com"
+      url: "mailto:sam.macam@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/samnovem-macam"
